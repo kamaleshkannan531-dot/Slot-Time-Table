@@ -2,7 +2,7 @@
 
 **Course Code:** 19AI414  
 **Course Title:** Fundamentals of Web Application Development  
-**Department:** Computer Science Engineering 
+**Department:** Computer Science Engineering
 **Institution:** Saveetha Engineering College (Autonomous)  
 
 ---
